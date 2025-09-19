@@ -6,6 +6,5 @@ Python version: 3.10.18
 # When someone clones your repo, they can run:
 
 python -m venv selenium_env
-selenium_env\Scripts\activate   # on Windows
-pip install -r requirements.txt
-→ This installs the exact same dependencies you had.
+selenium_env\Scripts\activate   #on Windows
+pip install -r requirements.txt    This installs the exact same dependencies you had.
